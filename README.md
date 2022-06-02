@@ -1,4 +1,4 @@
-<h2><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="20px" /> About me?</h2>
+<h2>👋 About me?</h2>
 
 <a href="https://github.com/soonzero">![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)</a>
 <a href="https://www.notion.so/all-about-soonzero-341e814b97da45a187fe25ae98facee8">![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)</a>
