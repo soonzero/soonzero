@@ -42,5 +42,6 @@
 
 <h2>📄 Current Project</h2>
 
+<a href="https://github.com/soonzero/life-partner-client"><img src="https://user-images.githubusercontent.com/95613159/183024554-bb3d2ef0-15da-4e6b-b209-e982c6a40730.png" width="100px"></a>
 <a href="https://github.com/soonzero/mplist"><img src="https://user-images.githubusercontent.com/95613159/174395562-97f84538-c7ce-4855-a752-d9727d273f33.png" width="100px"></a>
 <a href="https://github.com/soonzero/nyang-gang"><img src="https://user-images.githubusercontent.com/95613159/170043198-80031e01-7752-40c8-94d8-670327729cb9.png" width="100px"></a>
